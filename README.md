@@ -1,0 +1,2 @@
+# scala-hello
+scala study
